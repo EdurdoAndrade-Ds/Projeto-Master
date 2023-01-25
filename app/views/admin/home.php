@@ -1,0 +1,19 @@
+<h2>Home admin</h2>
+
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/stylesAdmin.css">
+
+<img src="../assets/img/html5.png" class="img-html" alt="Logotipo Html 5">
+
+<p>	Lorem ipsum himenaeos ipsum taciti ornare at congue conubia, lorem donec eros nostra id lorem mattis varius, sollicitudin eros litora vivamus odio platea sem. pharetra hendrerit fusce integer augue faucibus litora ante amet eget ultrices nisi, cursus aenean dapibus fusce lacus risus condimentum aenean ad justo ut, sem feugiat odio sem tellus maecenas eleifend netus mattis cras. praesent taciti per enim iaculis proin interdum quam, viverra mi duis luctus euismod phasellus elementum, dapibus id convallis rhoncus tempus felis. tincidunt consectetur sem vitae dictum tellus erat tempus condimentum praesent urna ad, dictum metus integer quisque class semper consectetur urna faucibus condimentum phasellus hendrerit, vel habitant conubia varius faucibus per adipiscing ultrices a torquent.</p>
+    
+<p>Velit taciti metus convallis aptent mattis euismod habitasse praesent, sapien id conubia justo per convallis donec fringilla, congue per lacus eget convallis eu ut. a elit inceptos fringilla tempus malesuada urna felis nulla sollicitudin, venenatis tempus et mauris ultrices turpis nostra ac, a libero tristique ut ipsum tincidunt condimentum maecenas. quam venenatis odio curae bibendum eget vel laoreet taciti torquent cursus mi, purus hendrerit egestas commodo fermentum suscipit ut viverra praesent platea id, nam dui pretium tempus hac eleifend blandit etiam euismod duis. lacinia risus quam proin suspendisse habitant rhoncus tempor fusce erat class ipsum curae fringilla, turpis arcu quam diam velit himenaeos lacinia ultricies duis lacinia ante. </p>
+
+<img src="../assets/img/css3.png" class="img-css" alt="Logotipo Css 3">
+
+<p>Quisque nec volutpat nibh posuere tempor at aenean, non feugiat inceptos duis purus praesent vivamus, non porta primis est laoreet hac. fusce placerat lacinia leo praesent ipsum senectus sociosqu metus ultrices nec, erat tellus lectus porttitor potenti aliquam dictum suscipit praesent lacus, porta nullam lacus dolor a dapibus ultricies curabitur consequat. bibendum neque integer pellentesque ad lacus commodo rhoncus, cubilia sapien nisi leo luctus lacinia vulputate, etiam interdum volutpat scelerisque lacus pharetra. ornare vivamus et sollicitudin suscipit nam vestibulum, ultrices tristique sapien tristique sem odio curae, sagittis dolor purus quisque sed. </p>
+
+
+<p>Ultricies inceptos habitasse curabitur suscipit taciti turpis tristique orci massa, aenean euismod aliquam egestas interdum justo libero purus mi fames, sagittis elementum aliquet ad id nulla pulvinar leo. ut amet scelerisque metus aenean ornare commodo urna tempus, gravida taciti ut sodales interdum commodo mattis, elementum vestibulum porttitor feugiat rhoncus nulla accumsan. viverra neque accumsan ultrices ornare vel imperdiet enim odio molestie eros, cubilia est maecenas quisque volutpat aenean tristique taciti id per, vulputate vel eros varius fusce commodo mollis vestibulum accumsan. quam primis fringilla metus pharetra cras molestie sit hac convallis nec, proin nostra arcu aptent etiam vehicula condimentum libero amet volutpat proin, eros tortor dui pharetra nostra mi ultricies hac praesent. </p>
+
+<p>Porta taciti libero nostra suspendisse platea velit euismod imperdiet pharetra gravida, massa tellus scelerisque euismod accumsan maecenas quisque scelerisque lacus etiam nullam, luctus tortor rutrum non himenaeos quam ornare eleifend nec. hac adipiscing duis est vivamus odio erat, platea habitasse eros hendrerit nibh dictumst, aenean adipiscing tellus magna pretium. ultrices condimentum commodo nam sit condimentum placerat velit fermentum arcu bibendum nunc, fermentum aliquam dolor mattis inceptos varius sagittis feugiat ad lobortis. congue rhoncus tempor proin, velit aptent. </p>

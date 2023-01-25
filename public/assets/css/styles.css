@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;400;700&display=swap');
+
+html,
+body {
+  font-family: 'Barlow', sans-serif;
+  background-color: #1B1F27;
+  color: #CBD0F7;
+
+  /* background-image: url(../img/download.jfif);
+  background-repeat: no-repeat;
+  background-size: 300px; */
+  
+}
+
+.img-user
+{
+  float: right;
+}
+
+h2 {
+  position: relative;
+}
+
+ul#nav {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul#nav li {
+  margin-right: 10px;
+  color: #CBD0F7;
+
+  display: inline-block;
+  border: 2px solid #445aff;
+ /* height: 28px; */
+  
+}
+
+ul#nav li a{
+  display: block;
+  padding: 1px;
+  letter-spacing: 1px;
+  /* text-transform: uppercase; */
+}
+
+ul#nav li a:hover {
+  color: white;
+
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  color: #CBD0F7;
+}
+
+
+
+
+.headerHome {
+  background-image: url(../img/bg-1.jpg);
+  height: 500px;
+  background-size: cover;
+  background-position: right center;
+}
+
+.headerHome h1 {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 46px;
+  text-shadow: 3px 3px 5px #333;
+  margin-top: 30px;
+  padding: 200px;
+}
+
+.headerHome ul {
+  margin-top: 10px;
+}
+
+p {
+  color: #CBD0F7;
+}
+
+a {
+  color: #5568FE;
+  text-decoration: none;
+  margin-left: 10px;
+
+}
+
+
+
+
+

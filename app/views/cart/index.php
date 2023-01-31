@@ -58,6 +58,3 @@ $productsInCart = $cart->cart();
 </div>
 </body>
 </html>
-
-<input type="text" name="firstName" placeholder="Seu nome" class="form-control" value="<?php echo old('firstName') ?>">
-    <?php echo flash('firstName');  ?>

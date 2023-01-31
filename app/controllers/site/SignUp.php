@@ -38,8 +38,31 @@ class SignUp
             return redirect('/signup');
         }
 
-        
-        echo 'Signup com sucesso ' . '|' . ' <a href="/" class="btn btn-primary">Home</a>';
+        ?>
+        <html>
+
+        <style>
+            h1 {
+            text-align: center;
+            }
+
+            a {
+                color: #5568FE;
+                text-decoration: none;
+                margin-left: 10px;
+
+            }
+        </style>
+
+            <header>
+                <a href="/" class="btn btn-primary">Home</a>
+            </header>
+            <h1>
+                <?php echo 'Signup com sucesso pelo usuário: ' . NAME; ?>
+            </h1>
+        </html>
+
+        <?php
         die();
         // $user = new User;
         $user->firstName = $validate->data['firstName'];

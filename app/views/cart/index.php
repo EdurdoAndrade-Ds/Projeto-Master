@@ -40,6 +40,7 @@ $productsInCart = $cart->cart();
     <section id="header">
         <ul id="nav">
             <li><a href="/">Início</a></li>
+            <li><a href="/card">Card</a></li>
             <!-- <li><a href="/signup">SignUp</a></li> -->
             <!-- <li><a href="/login">Login</a></li> -->
         </ul>

@@ -20,6 +20,8 @@
                 <li><a href="/cart">Cart</a></li>
                 <li><a href="/User/show">User</a></li>
                 <li><a href="/teste">Teste</a></li>
+                <!-- <li><a href="/loginTemp">Login Temp</a></li>
+                <li><a href="/card">Card</a></li> -->
 
             </ul>
 

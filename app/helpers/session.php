@@ -8,7 +8,14 @@ function welcome($user)
         return 'Visitante';
     } 
     
+    // return  $username= $_POST['login'] . ' | <a href="/login/destroy">Logout</a>';
     return $_SESSION['login'] . ' | <a href="/login/destroy">Logout</a>';
+
+
+   
+
+	
+
 
 
 }

@@ -59,7 +59,8 @@ $userMaster = 'Eduardo Andrade';
     </section>
     
     
-    <h1>Parabéns compra feita com sucesso no valor: R$ <?php echo number_format($products['total'], 2, ',', '.') ?></h1>
+    <!-- <h1>Parabéns compra feita com sucesso no valor: R$ <?php echo number_format($products['total'], 2, ',', '.') ?></h1> -->
+    <h1>Pagamento aprovado no valor: R$ <?php echo number_format($products['total'], 2, ',', '.') ?></h1>
 
     <!-- <img src="./assets/img/pay.png" alt=""> -->
 </body> 

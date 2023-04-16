@@ -47,7 +47,7 @@ $products = $cartProducts->products(new Cart);
 
 				<div id="cart-total-clear">
 					<span id="cart-total">
-						<a href="pay.php">Total: R$ <?php echo number_format($products['total'], 2, ',', '.') ?></a> 
+						<a href="/card">Total: R$ <?php echo number_format($products['total'], 2, ',', '.') ?></a> 
 					</span>
 
 
